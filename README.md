@@ -2,4 +2,4 @@
 
 Structuring Work
 Tools
-1. Few algo to help developers get started with AI.
+1. Few algos to help developers get started with AI.
